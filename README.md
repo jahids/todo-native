@@ -7,7 +7,7 @@
 
 ### Demo App
 https://ibb.co/R9Lz11T
-![]([https://ibb.co/R9Lz11T](https://github.com/jahids/todo-native/blob/main/appdemo.gif))
+![](https://github.com/jahids/todo-native/blob/main/appdemo.gif)
 
 ## Getting Started
 
