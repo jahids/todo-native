@@ -1,9 +1,9 @@
 # Todo react native
 
 # Features
-Add task
-Edit task
-Delete task
+- Add task
+- Edit task
+- Delete task
 
 ## Getting Started
 
