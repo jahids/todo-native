@@ -6,7 +6,8 @@
 - Delete task
 
 ### Demo App
-![Demo Image](https://ibb.co/R9Lz11T)
+https://ibb.co/R9Lz11T
+![](https://ibb.co/R9Lz11T)
 
 ## Getting Started
 
